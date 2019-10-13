@@ -1,0 +1,27 @@
+{
+  "name": "raid-calculator",
+  "version": "0.0.9",
+  "description": "A RAID calculator for RAID 0, RAID 1, RAID 5, RAID 6, RAID 10, RAID 50, RAID51 RAID 60, RAID 61, RAID 5E and RAID 5EE",
+  "main": "index.js",
+  "scripts": {
+    "build": "gulp build",
+    "dev": "gulp dev",
+    "watch": "gulp watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuetzeOfficial/RAID-Calculator.git"
+  },
+  "author": "Norman Huth <normanhuth.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MuetzeOfficial/RAID-Calculator/issues"
+  },
+  "homepage": "https://github.com/MuetzeOfficial/RAID-Calculator#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-terser": "^1.2.0"
+  }
+}
