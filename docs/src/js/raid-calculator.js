@@ -4,7 +4,7 @@ $('.add-drive').click(function(){
     let btn_class = $(server).data("class");
     let prefix    = $(server).data("prefix");
     let suffix    = $(server).data("suffix");
-    $(server).append('<button type="text" readonly class="'+btn_class+'" value="'+ size +'">'+ prefix + size + suffix);
+    $(server).append('<button type="text" readonly class="'+btn_class+'" value="'+ size +'">'+ prefix + size + suffix + '</button>');
     RaidCalculate()
 });
 $(document).on('click', '.this-drive', function () {

@@ -17,7 +17,7 @@ The "Git Example" and Script can You find in the folder `docs`
 Customize the source code. (In the example Bootstrap 4 & Font Awesome is used.) The output before and after the size and the number of maximum hard disks can be modified with the data attributes.   
 ```data-class="btn border border-dark btn-hdd this-drive rounded-0"
 data-prefix="<span class='small'>"
-data-suffix=" TB</span><i class='fas fa-hdd'></i></button>"
+data-suffix=" TB</span><i class='fas fa-hdd'></i>"
 data-maxdrives="32"
 ```
 
