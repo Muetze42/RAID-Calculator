@@ -23,8 +23,7 @@ data-maxdrives="32"
 
 #
 ###### Author: Norman Huth  
-[Website English](https://normanhuth.com)  
-[Website German](https://normanhuth.de)
+[Website](https://huth.it)  
 
 [Spend a coffee](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=V35PNWK54DUES&source=url)  
 
