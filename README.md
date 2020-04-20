@@ -5,7 +5,7 @@ A RAID calculator for RAID 0, RAID 1, RAID 5, RAID 6, RAID 10, RAID 50, RAID51 R
 ###### Example Site:  
 [Live Example English](https://normanhuth.com/RAID-Calculator)   
 [Live Example German](https://normanhuth.de/RAID-Calculator)   
-[Git Example](https://muetzeofficial.github.io/RAID-Calculator/)  
+[Git Example](https://normanhuth.github.io/RAID-Calculator/)  
 The "Git Example" and Script can You find in the folder `docs`   
 
 #
